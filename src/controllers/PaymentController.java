@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * Controlador MVC para gestionar los pagos.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class PaymentController {
 

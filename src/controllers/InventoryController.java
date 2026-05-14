@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * Controlador MVC para gestionar el inventario.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class InventoryController {
 

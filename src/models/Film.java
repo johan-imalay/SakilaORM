@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * Modelo que representa la tabla film de Sakila.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Film {
 

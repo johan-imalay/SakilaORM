@@ -3,7 +3,7 @@ package models;
 /**
  * Modelo que representa la tabla staff de Sakila.
  * Foreign Key: address_id → Address, store_id → Store
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Staff {
 

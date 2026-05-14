@@ -3,7 +3,7 @@ package models;
 /**
  * Modelo que representa la tabla city de Sakila.
  * Foreign Key: country_id → objeto Country (composición)
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class City {
 

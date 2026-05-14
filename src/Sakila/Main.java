@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Clase principal para probar el ORM de Sakila.
-
+///Johan Manuel Feliz Montero 100146608
  *  */
 public class Main {
 

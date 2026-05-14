@@ -2,7 +2,7 @@ package models;
 
 /**
  * Modelo que representa la tabla actor de Sakila.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Actor {
 

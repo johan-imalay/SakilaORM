@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
  * Modelo que representa la tabla payment de Sakila.
  * Foreign Keys: customer_id → Customer, staff_id → Staff,
  *               rental_id → Rental (composición)
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Payment {
 

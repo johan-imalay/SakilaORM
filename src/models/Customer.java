@@ -2,7 +2,7 @@ package models;
 
 /**
  * Modelo que representa la tabla customer de Sakila.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Customer {
 

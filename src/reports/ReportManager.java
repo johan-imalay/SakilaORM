@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * Clase de reportes y estadísticas del sistema Sakila.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class ReportManager {
 

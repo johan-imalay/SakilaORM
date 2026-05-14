@@ -4,7 +4,7 @@ import java.time.LocalDateTime;
 
 /**
  * Modelo que representa la tabla rental de Sakila.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Rental {
 

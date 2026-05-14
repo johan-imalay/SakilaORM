@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Controlador MVC para gestionar las rentas.
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class RentalController {
 

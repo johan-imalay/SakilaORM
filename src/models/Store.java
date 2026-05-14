@@ -3,7 +3,7 @@ package models;
 /**
  * Modelo que representa la tabla store de Sakila.
  * Foreign Key: address_id → objeto Address (composición)
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Store {
 

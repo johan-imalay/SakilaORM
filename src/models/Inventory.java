@@ -3,7 +3,7 @@ package models;
 /**
  * Modelo que representa la tabla inventory de Sakila.
  * Foreign Key: film_id → Film, store_id → Store (composición)
-
+///Johan Manuel Feliz Montero 100146608
  */
 public class Inventory {
 
